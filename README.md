@@ -12,4 +12,3 @@ E depois executar o programa para verificação de conectividade
   ```sh
   ep1 -N<numero de pontos aleatórios no grafo> -d<distancia maxima entre pontos>
   ```
-  ```
